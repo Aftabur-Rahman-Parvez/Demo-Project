@@ -1,0 +1,544 @@
+
+/*Extra Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 321px) and (max-width: 568.98px) {
+    .header-social-icon{
+        display:none;
+    }
+    .header-top {
+        display: none;
+    }
+    .logo-part{
+       
+    }
+    .search-part select{
+        font-size: .7rem;
+    }
+    .header-mid{
+        margin-bottom: 0px!important;
+    }
+    .card-option{
+        background: none;
+    }
+    .navbar-toggler{
+        background-color: #fff;
+        border: 1px solid #fff;
+    }
+    .buy-item{
+        left:-120px;
+    }
+
+    .s-c{
+        display: none;
+    }
+    .card-option p i {
+        margin-right: 0px!important;
+    }
+    .menu li a{
+        padding: 9px 7px!important;
+    }
+    .slider-text h1{
+        font-size: 2rem;
+    }
+    .slider-text h4{
+        font-size:1.5rem; 
+    }
+    .accessories-part ul li a span {
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+    .accessories-part ul {
+        margin-bottom: 40px;
+    }
+    .accessories-part {
+        padding-top: 1.5rem!important;
+        margin-bottom: 1.5rem!important;
+    }
+    .img-sec{
+        margin-bottom: 20px;
+    }
+
+    /* men */
+    .men-container{
+        margin-top: 0px!important;
+    }
+    .men-slider{
+        margin-top: 50px;
+    }
+    .star-part button{
+        margin-top: -13px;
+        padding-top: 2px;
+        padding-bottom: 2px;  
+    }
+    /* women-part */
+    .women-part{
+        margin-top:10px!important;
+    }
+    .col-heading{
+        font-size: 1.5rem;
+    }
+    .women-single-img{
+        margin-top: 35px;
+    }
+    .carousel-control-next{
+        top: 40%;
+        transform: translateY(-50%);
+    }
+    .carousel-control-prev{
+        top:40%;
+        left:1%;
+        transform: translateY(-50%);
+    }
+    .navtab-row .col-9{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .navtab-row hr{
+        display: none;
+    }
+    .star-part {
+        display: block!important;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .star-part ul {
+        margin-left: 30px;
+    }
+    .navtab-row .team-1{
+        margin-top:30px;
+    }
+
+    /* li.nav-item1::after {
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        content: '';
+        border-left: 10px solid transparent;
+        border-right: 9px solid transparent;
+        border-top: 10px solid #f00;
+        border-bottom: 10px sloid transparent;
+        width: 0;
+        height: 0;
+        display: none;
+        
+    } */
+    .nav-item1 {
+        width: 100%;
+        margin-right: 0%;
+    }
+    .all-category-list {
+        text-align: center;
+    }
+    #footer{
+        padding-top: 0rem!important; 
+    }
+    .footer-img{
+        text-align: center;
+    }
+}
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 369px) and (max-width: 575.98px) {
+    .header-social-icon{
+        display:none;
+    }
+    .header-top {
+        display: none;
+    }
+    .logo-part{
+       
+    }
+    .search-part select{
+        font-size: .7rem;
+    }
+    .header-mid{
+        margin-bottom: 0px!important;
+    }
+    .card-option{
+        background: none;
+    }
+    .navbar-toggler{
+        background-color: #fff;
+        border: 1px solid #fff;
+    }
+    .buy-item{
+        left:-120px;
+    }
+
+    .s-c{
+        display: none;
+    }
+    .card-option p i {
+        margin-right: 0px!important;
+    }
+    .menu li a{
+        padding: 9px 7px!important;
+    }
+    .slider-text h1{
+        font-size: 2rem;
+    }
+    .slider-text h4{
+        font-size:1.5rem; 
+    }
+    .accessories-part ul li a span {
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+    .accessories-part ul {
+        margin-bottom: 40px;
+    }
+    .accessories-part {
+        padding-top: 1.5rem!important;
+    }
+    .img-sec{
+        margin-bottom: 20px;
+    }
+
+    /* men */
+    .men-container{
+        margin-top: 0px!important;
+    }
+    .men-slider{
+        margin-top: 50px;
+    }
+    .star-part button{
+        margin-top: -13px;
+        padding-top: 2px;
+        padding-bottom: 2px;  
+    }
+    /* women-part */
+    .women-part{
+        margin-top:10px!important;
+    }
+    .col-heading{
+        font-size: 1.5rem;
+    }
+    .women-single-img{
+        margin-top: 35px;
+    }
+    .carousel-control-next{
+        top: 40%;
+        transform: translateY(-50%);
+    }
+    .carousel-control-prev{
+        top:40%;
+        left:1%;
+        transform: translateY(-50%);
+    }
+    .navtab-row .col-9{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .navtab-row hr{
+        display: none;
+    }
+    .star-part {
+        display: block!important;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .star-part ul {
+        margin-left: 30px;
+    }
+    .navtab-row .team-1{
+        margin-top:30px;
+    }
+
+    /* li.nav-item1::after {
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        content: '';
+        border-left: 10px solid transparent;
+        border-right: 9px solid transparent;
+        border-top: 10px solid #f00;
+        border-bottom: 10px sloid transparent;
+        width: 0;
+        height: 0;
+        display: none;
+        
+    } */
+    .nav-item1 {
+        width: 100%;
+    }
+    .all-category-list {
+        text-align: center;
+    }
+    #footer{
+        padding-top: 0rem!important; 
+    }
+    .footer-img{
+        text-align: center;
+    }
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .header-social-icon{
+        display:none;
+    }
+    .header-top {
+        display: none;
+    }
+    .logo-part{
+       
+    }
+    .buy-item{
+        left:-120px;
+    }
+    .search-part select{
+        font-size: .7rem;
+    }
+    .header-mid{
+        margin-bottom: 0px!important;
+    }
+    .card-option{
+        background: none;
+    }
+    .navbar-toggler{
+        background-color: #fff;
+        border: 1px solid #fff;
+    }
+
+    .s-c{
+        display: none;
+    }
+    .card-option p i {
+        margin-right: 0px!important;
+    }
+    .menu li a{
+        padding: 9px 7px!important;
+    }
+    .slider-text h1{
+        font-size: 2rem;
+    }
+    .slider-text h4{
+        font-size:1.5rem; 
+    }
+    .accessories-part ul li a span {
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+    .accessories-part ul {
+        margin-bottom: 40px;
+    }
+    .accessories-part {
+        padding-top: 1.5rem!important;
+    }
+    .img-sec{
+        margin-bottom: 20px;
+    }
+
+    /* men */
+    .men-container{
+        margin-top: 0px!important;
+    }
+    .men-slider{
+        margin-top: 50px;
+    }
+    .star-part button{
+        margin-top: -13px;
+        padding-top: 2px;
+        padding-bottom: 2px;  
+    }
+    /* women-part */
+    .women-part{
+        margin-top:10px!important;
+    }
+    .col-heading{
+        font-size: 1.5rem;
+    }
+    .women-single-img{
+        margin-top: 35px;
+    }
+    .carousel-control-next{
+        top: 40%;
+        transform: translateY(-50%);
+    }
+    .carousel-control-prev{
+        top:40%;
+        left:1%;
+        transform: translateY(-50%);
+    }
+    .navtab-row .col-9{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .navtab-row hr{
+        display: none;
+    }
+    .star-part {
+        display: block!important;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .star-part ul {
+        margin-left: 30px;
+    }
+    .navtab-row .team-1{
+        margin-top:30px;
+    }
+
+    /* li.nav-item1::after {
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        content: '';
+        border-left: 10px solid transparent;
+        border-right: 9px solid transparent;
+        border-top: 10px solid #f00;
+        border-bottom: 10px sloid transparent;
+        width: 0;
+        height: 0;
+        display: none;
+        
+    } */
+    .nav-item1 {
+        width: 100%;
+    }
+    .all-category-list {
+        text-align: center;
+    }
+    #footer{
+        padding-top: 0rem!important; 
+    }
+    .footer-img{
+        text-align: center;
+    }
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .header-top-text a{
+        font-size: .78rem;
+    }
+    .header-social-icon ul li{
+        width: 27px;
+        height: 27px;
+    }
+    .buy-item{
+        left:-120px;
+    }
+    .header-social-icon ul li a{
+        font-size: .8rem;
+    }
+    .header-mid {
+        margin-bottom: 0rem!important;
+    }
+    .card-option{
+        background: none;
+    }
+    .navbar-toggler{
+        background-color: #fff;
+        border: 1px solid #fff;
+    }
+
+    .s-c{
+        display: none;
+    }
+    .card-option p i {
+        margin-right: 0px!important;
+    }
+    .menu li a{
+        padding: 9px 7px!important;
+    }
+    .slider-text h1{
+        font-size: 2rem;
+    }
+    .slider-text h4{
+        font-size:1.5rem; 
+    }
+    .accessories-part ul li a span {
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+    .accessories-part ul {
+        margin-bottom: 40px;
+    }
+    .accessories-part {
+        padding-top: 1.5rem!important;
+    }
+    .img-sec{
+        margin-bottom: 20px;
+    }
+    .more-btn{
+        font-weight: 500;
+        padding: 9px 12px;
+    }
+
+    /* men */
+    .men-container{
+        margin-top: 0px!important;
+    }
+    
+    .star-part button{
+        margin-top: -13px;
+        padding-top: 2px;
+        padding-bottom: 2px;  
+    }
+    .team-1 .image-part {
+        height: 220px;
+    }
+    .team-1 .image-part img {
+        height: auto;
+    }
+    /* Women */
+    .women-part{
+        margin-top:10px!important;
+    }
+    .col-heading{
+        font-size: 1.5rem;
+    }
+    .women-single-img{
+        margin-top: 0px;
+    }
+
+    /* all category */
+
+    .nav-item1{
+        width:25%;
+    }
+    .carousel-control-prev{
+        left:90%;
+    }
+    .nav-pills .nav-item1 a.nav-link{
+        font-size: 1.1rem;
+    }
+    .star-part ul{
+        width:100%;
+        display:block;
+        margin-bottom: 10px;
+    }
+    .col-9 .star-part.d-flex{
+      display:block!important;
+    }
+    .col-9 .star-part button{
+        margin-top:4px;
+    }
+    .col-9 .team-1 .image-part{
+        height:190px;
+    }
+
+    .blog-date{
+        padding:0px 10px;
+    }
+    .blog-date p{
+        margin-bottom:2px;
+    }
+    
+  
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1599.98px){
+  
+}
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1600px) and (max-width: 1919.98px){
+  
+}
+/*Bigger devices (large desktops, 1920px and up)*/
+@media (min-width: 1920px){
+
+
+}
